@@ -31,7 +31,7 @@ Estas son las herramientas con las que estoy construyendo las soluciones más in
 
 Aquí muestro algunos ejemplos de cómo aplico mi enfoque actual para resolver problemas prácticos.
 
-*   **[Automatización de Registro de Notas en HubSpot con IA y n8n](https://github.com/carlos-lugo-soto/n8n-hubspot-voice-transcript-processor)**
+*   **[Automatización de Registro de Notas en HubSpot con IA y n8n](https://github.com/carloslugosoto/n8n-hubspot-voice-transcript-processor)**
     *   *Un flujo de trabajo avanzado que procesa transcripciones de voz, extrae entidades con IA y las registra como notas en HubSpot, utilizando llamadas directas a la API para una integración profunda.*
 *   **[Web Scraper de Datos de Mercado con Python](https://github.com/carlos-lugo-soto/python-market-data-scraper)**
     *   *[Ejemplo: Un script de Python que extrae automáticamente datos de precios de sitios de e-commerce, los limpia con Pandas y los guarda en una base de datos para su análisis.]*
