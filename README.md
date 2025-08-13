@@ -33,7 +33,7 @@ Aquí puedes encontrar algunos de mis trabajos más representativos. ¡Cada repo
 
 *   **[Automatización de Registro de Notas en HubSpot con IA y n8n](https://github.com/carlos-lugo-soto/n8n-hubspot-voice-transcript-processor)**
     *   *Un flujo avanzado que procesa transcripciones de voz, extrae datos con IA y los registra en HubSpot, usando llamadas directas a la API para una integración profunda.*
-*   **[Validador de Facturas de Proveedores con n8n](https://github.com/carlos-lugo-soto/n8n-sheets-invoice-validator)**
+*   **[Validador de Facturas de Proveedores con n8n](https://github.com/carloslugosoto/n8n-sheets-invoice-validator)**
     *   *Un flujo de automatización que resuelve un problema financiero real: lee datos de órdenes, cotizaciones y facturas desde Google Sheets, calcula discrepancias de precios y genera un informe de validación detallado.*
 *   **[Web Scraper de Datos de Mercado con Python](https://github.com/carlos-lugo-soto/python-market-data-scraper)**
     *   *[Ejemplo: Un script de Python que extrae automáticamente datos de precios de sitios de e-commerce, los limpia con Pandas y los guarda en una base de datos para su análisis.]*
