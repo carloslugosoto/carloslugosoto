@@ -27,17 +27,16 @@ Estas son las herramientas con las que estoy construyendo las soluciones más in
 
 ---
 
-### 📂 Proyectos Destacados en Automatización
+### 🚀 Mis Proyectos Destacados
 
-Aquí muestro algunos ejemplos de cómo aplico mi enfoque actual para resolver problemas prácticos.
+Aquí puedes encontrar algunos de mis trabajos más representativos. ¡Cada repositorio incluye un `README` detallado con el caso de uso, diagramas y cómo probarlo!
 
-*   **[Automatización de Registro de Notas en HubSpot con IA y n8n](https://github.com/carloslugosoto/n8n-hubspot-voice-transcript-processor)**
-    *   *Un flujo de trabajo avanzado que procesa transcripciones de voz, extrae entidades con IA y las registra como notas en HubSpot, utilizando llamadas directas a la API para una integración profunda.*
+*   **[Automatización de Registro de Notas en HubSpot con IA y n8n](https://github.com/carlos-lugo-soto/n8n-hubspot-voice-transcript-processor)**
+    *   *Un flujo avanzado que procesa transcripciones de voz, extrae datos con IA y los registra en HubSpot, usando llamadas directas a la API para una integración profunda.*
+*   **[Validador de Facturas de Proveedores con n8n](https://github.com/carlos-lugo-soto/n8n-sheets-invoice-validator)**
+    *   *Un flujo de automatización que resuelve un problema financiero real: lee datos de órdenes, cotizaciones y facturas desde Google Sheets, calcula discrepancias de precios y genera un informe de validación detallado.*
 *   **[Web Scraper de Datos de Mercado con Python](https://github.com/carlos-lugo-soto/python-market-data-scraper)**
     *   *[Ejemplo: Un script de Python que extrae automáticamente datos de precios de sitios de e-commerce, los limpia con Pandas y los guarda en una base de datos para su análisis.]*
-*   **[Sincronizador de Pedidos a Hoja de Cálculo](https://github.com/carlos-lugo-soto/n8n-woocommerce-to-sheets-sync)**
-    *   *[Ejemplo: Un flujo en n8n que captura nuevos pedidos de una tienda online y los registra en tiempo real en Google Sheets para el equipo de logística.]*
-
 ---
 
 ### 🛠️ Fundamento Tecnológico y Experiencia Profesional
