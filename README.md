@@ -35,8 +35,8 @@ Aquí puedes encontrar algunos de mis trabajos más representativos. ¡Cada repo
     *   *Un flujo avanzado que procesa transcripciones de voz, extrae datos con IA y los registra en HubSpot, usando llamadas directas a la API para una integración profunda.*
 *   **[Validador de Facturas de Proveedores con n8n](https://github.com/carloslugosoto/n8n-sheets-invoice-validator)**
     *   *Un flujo de automatización que resuelve un problema financiero real: lee datos de órdenes, cotizaciones y facturas desde Google Sheets, calcula discrepancias de precios y genera un informe de validación detallado.*
-*   **[Web Scraper de Datos de Mercado con Python](https://github.com/carlos-lugo-soto/python-market-data-scraper)**
-    *   *[Ejemplo: Un script de Python que extrae automáticamente datos de precios de sitios de e-commerce, los limpia con Pandas y los guarda en una base de datos para su análisis.]*
+*   **[Python Web Scraper for NCES School District Data](https://github.com/carloslugosoto/python_nces_district_scraper)**
+    *   *[This project is a demonstration of a robust, two-stage web scraping solution built with Python. Its goal is to extract foundational data for US school districts directly from the official NCES (National Center for Education Statistics) government database.]*
 ---
 
 ### 🛠️ Fundamento Tecnológico y Experiencia Profesional
